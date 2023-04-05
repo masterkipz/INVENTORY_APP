@@ -1,0 +1,61 @@
+20230328	19:55:19	299c5fc0-2af9-4bdd-8c91-7291a8fd43db	ReferenceError: orisgin is not defined
+20230328	20:30:27	4e76649d-268d-4f3b-b63b-d0241506493b	Error: ENOENT: no such file or directory, stat 'D:\Personal Documents\ADmin\api\routes\views\index.html'
+20230328	20:31:34	90a01bea-5a7f-4bea-90e1-e599cfb3556a	Error: ENOENT: no such file or directory, stat 'D:\Personal Documents\ADmin\api\routes\views\new-page.html'
+20230328	20:31:57	cc4f275d-ac87-4655-80eb-6fc62e3b1bca	Error: ENOENT: no such file or directory, stat 'D:\Personal Documents\ADmin\api\routes\views\new-page.html'
+20230328	20:32:15	251ef1c5-90db-475c-8b52-171df7749e68	Error: ENOENT: no such file or directory, stat 'D:\Personal Documents\ADmin\api\routes\views\new-page.html'
+20230328	20:51:17	f9a3bf43-0b0e-431f-b8dd-a37cc0223bc6	TypeError: res.body is not a function
+20230328	20:51:36	b9eca880-38d1-4e89-954c-f5a51e8330e2	TypeError: res.body is not a function
+20230328	20:52:27	b0a2564b-fb86-4bcd-b853-a4b91988df9d	SyntaxError: Unexpected string in JSON at position 31
+20230328	20:52:38	64006a32-f9ce-4633-b298-9929df49554c	SyntaxError: Unexpected string in JSON at position 31
+20230328	20:52:41	5176acd6-d161-4102-acb7-0c9e2a4a7b58	SyntaxError: Unexpected string in JSON at position 31
+20230328	20:52:41	95530cf2-8b95-4a88-9625-3d8ff5757213	SyntaxError: Unexpected string in JSON at position 31
+20230328	20:52:50	83046e9f-63de-40f4-a4ff-46c14fbda9db	SyntaxError: Unexpected string in JSON at position 31
+20230328	20:53:24	d49402ea-b380-4d4a-9e98-e9b0a3fcd311	TypeError: res.body is not a function
+20230328	22:26:07	27b4c6c4-b521-475c-854b-efb7fc54b0b2	TypeError: res.body is not a function
+20230328	22:26:26	05b4311c-284d-4109-82a8-f5add3b27465	TypeError: res.body is not a function
+20230328	22:27:13	a081b81d-7eef-410d-a11e-73697d80e4af	TypeError: res.body is not a function
+20230328	22:27:24	f60240ae-33bf-4ad5-9721-4373d1708703	TypeError: res.body is not a function
+20230328	22:32:56	33342102-8927-4054-a63c-3e8d5cc841e5	TypeError: res.body is not a function
+20230328	22:32:56	0a969f36-4535-44f1-911c-fad9ebc97826	TypeError: res.body is not a function
+20230328	22:32:56	a0fa6d3e-dfc6-4c0b-994e-ba79ed577ae2	TypeError: res.body is not a function
+20230328	22:32:57	2510a1fc-5cb2-42ef-b23a-37f462483a11	TypeError: res.body is not a function
+20230328	22:33:18	2d310a9d-de5b-445a-b2db-ce557b3441a5	TypeError: res.body is not a function
+20230328	22:35:16	c704c042-9657-4cd8-a91f-495f47bd0496	TypeError: res.body is not a function
+20230328	22:39:35	6c9bb6f4-a62d-41ed-b9a1-6bc59aff39b2	ReferenceError: res is not defined
+20230328	22:39:42	ee29448c-86ab-4abb-8710-caa131ef50aa	ReferenceError: res is not defined
+20230328	22:42:02	3bb2a626-42de-44aa-93c2-d667680d84c5	ReferenceError: res is not defined
+20230328	22:56:48	a0f66b49-1966-4e29-abd5-69d778b38baf	SyntaxError: Unexpected string in JSON at position 15
+20230329	03:19:35	3da2b80c-7151-4789-9bc0-9a0ff152c66b	TokenExpiredError: jwt expired
+20230329	03:19:36	0a7e1ec5-be9d-4bdd-9aeb-4b0123cba248	TokenExpiredError: jwt expired
+20230329	03:19:37	02a8d212-7255-472a-b62b-3ea213a4db9c	TokenExpiredError: jwt expired
+20230329	03:19:37	e7ece3e1-766e-41eb-994d-58a6378f7d75	TokenExpiredError: jwt expired
+20230329	03:19:37	d7645636-0f8c-4896-ad34-2df45ca56c5c	TokenExpiredError: jwt expired
+20230329	03:19:38	cd5c4280-9225-4016-bd2c-e532c8847b70	TokenExpiredError: jwt expired
+20230329	03:19:38	482e5c1c-1502-4ee1-9fb4-47e85fe64702	TokenExpiredError: jwt expired
+20230329	03:19:38	2118fc0f-9020-4252-b1eb-d307d8221ffe	TokenExpiredError: jwt expired
+20230329	03:19:38	ef48d4c6-ddf9-4a80-aff7-32b7e38e730b	TokenExpiredError: jwt expired
+20230329	03:19:38	4486b162-ffd9-4af3-b3aa-924186be6737	TokenExpiredError: jwt expired
+20230329	03:19:39	a23910ad-2418-46dd-8e21-8faf2a7ac34f	TokenExpiredError: jwt expired
+20230329	03:19:39	38b83be5-149a-4020-a74e-4780cd46205b	TokenExpiredError: jwt expired
+20230329	03:19:39	3de1736d-c1e4-43ac-b115-9c79b410085c	TokenExpiredError: jwt expired
+20230329	03:19:40	d2ca05e8-0fa7-4759-ae82-9fc39e984184	TokenExpiredError: jwt expired
+20230329	03:19:40	acfbba1d-c91d-4b7c-9f36-a43d53150298	TokenExpiredError: jwt expired
+20230329	03:19:40	9b808368-edea-44ee-ae00-bda615fd7052	TokenExpiredError: jwt expired
+20230329	03:19:40	93e2d0dd-66e9-4efb-88b6-768114c29c2a	TokenExpiredError: jwt expired
+20230329	03:19:40	bffdd439-7470-4ffa-8646-881dad773ea2	TokenExpiredError: jwt expired
+20230329	03:19:41	9cfacf60-ebbc-447d-bfeb-707a6a54fdcc	TokenExpiredError: jwt expired
+20230329	03:19:41	6488f545-83f2-4a3e-8654-9914ed9a9762	TokenExpiredError: jwt expired
+20230329	03:22:35	8ab2904c-d349-47ae-9838-b11f55509bae	TokenExpiredError: jwt expired
+20230329	03:22:35	424f1070-f0e4-4de7-b8b6-a11277a9772b	TokenExpiredError: jwt expired
+20230329	03:22:36	6d1e5f69-328f-4e97-b98e-5b9dc38846e6	TokenExpiredError: jwt expired
+20230329	03:22:36	415921d8-d070-418c-a5cf-fa8bae72605f	TokenExpiredError: jwt expired
+20230329	03:22:51	b8abd4d6-d0dd-441a-9419-2b4ccb62e055	TokenExpiredError: jwt expired
+20230329	03:22:53	5c7f8ab6-b451-41bb-8b7a-57576a329cd6	TokenExpiredError: jwt expired
+20230329	03:24:14	c369f4e4-ee22-4be8-b4d6-5a78984fafe2	TokenExpiredError: jwt expired
+20230329	03:24:14	f120ce6c-89ff-4ac7-a231-7d7e98be0ec4	TokenExpiredError: jwt expired
+20230329	03:24:14	20e0ec1b-712a-4a7d-96b6-31b68766e4dd	TokenExpiredError: jwt expired
+20230329	03:24:14	9d509b2b-5d83-4eba-a455-0a305334e3ee	TokenExpiredError: jwt expired
+20230329	03:24:15	c10b1827-1754-4420-8e51-e3900c894114	TokenExpiredError: jwt expired
+20230329	03:43:46	5e5e27f9-c962-4834-87d6-ca0780314707	TokenExpiredError: jwt expired
+20230329	04:10:17	5b2d86e0-b3f1-4e8c-94a2-47e3eea1ca1d	TypeError: Cannot read properties of undefined (reading 'REFRESH_TOKEN_SECRET')
+20230405	19:52:35	c095ec28-9267-42af-b2d1-f52acca08b20	TypeError: authHeader?.starstWith is not a function
